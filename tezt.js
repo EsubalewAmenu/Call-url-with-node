@@ -4,4 +4,4 @@ const get = async () => {
         console.log(res.data);
     })
 }
-setInterval(get, 4000)
+setInterval(get, 1800000)
